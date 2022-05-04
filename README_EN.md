@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # SevenSegmentsDisp
 **Library under active development, support for most display modules is planned.**
 Fast and functional library for 7-segment display modules TM74HC595
